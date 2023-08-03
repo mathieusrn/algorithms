@@ -1,0 +1,1 @@
+# Cet alogorithme permet de prédire le prix d'un bien immobilier dans la commune du pradet en fonction de plusieurs critères (Surface, Type, nombre de Pièces etc.). Le réseau neurona a été entrainé (10k itérations) sur un jeu de données issu du site leboncoin.fr
