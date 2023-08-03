@@ -16,8 +16,8 @@ def load_data_from_csv(file_path):
 
     return data_list
 
-# Chemin d'accès ici
-csv_file_path = "C:\\Users\\m_ser\\Desktop\\donnees_immo.csv"
+# Chemin d'accès:
+csv_file_path = "donnees_immo.csv"
 
-# Appel de la fonction pour charger les données
+# Appel de la fonction afin de charger les données
 data_list = load_data_from_csv(csv_file_path)
