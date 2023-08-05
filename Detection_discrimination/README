@@ -1,0 +1,6 @@
+# Cet algorithme est destiné à détecter une discrimination fondée sur le sexe à partir d'un jeu de données.
+# Il contient des valeurs relatives au salaire, à l'âge, durée de la formation et expérience professionnelle.
+  # La spécificité de ce modèle est liée à sa capacité à détecter un écart trop important entre les alaires des hommes et des femmes.
+  # En l'espèce, un écart supérieur ou égal à 250 euros sera considéré comme un écart discriminatoire et l'utilisateur en sera averti dans l'interface graphique.
+# Les données utilisées ont été générées aléatoirement et ne sauraient être représentatives.
+# J'ai conçu cet algorithme sur la base de l'exemple fourni par Benjamin Spahic
